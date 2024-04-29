@@ -19,4 +19,5 @@ end
 
 group :development do
   gem "hotwire-livereload", "~> 1.3"
+  gem "dotenv-rails", "~> 3.1"
 end
